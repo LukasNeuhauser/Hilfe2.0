@@ -8,5 +8,9 @@ public class Hilfe {
             if (i%10 == 0) System.out.print("\n | ");
         }
 
+        System.out.println();
+
+        System.out.printl("Ich hoffe es Funktioniert beim ersten mal"); // Funktioniert nicht :(
+
     }
 }
