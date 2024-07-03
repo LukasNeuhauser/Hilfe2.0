@@ -10,7 +10,8 @@ public class Hilfe {
 
         System.out.println();
 
-        System.out.printl("Ich hoffe es Funktioniert beim ersten mal"); // Funktioniert nicht :(
+        System.out.println("Ich hoffe es Funktioniert beim ersten mal"); // Funktioniert :)
+        System.out.println("JAAAAAA DAAAAAAASSSSSSSSS TUUUUUT ESSSSSSSS"); // Funktioniert :)
 
     }
 }
